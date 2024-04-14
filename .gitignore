@@ -1,0 +1,5 @@
+.pytest_cache
+build
+dist
+src/math_package.egg-info
+tests/__pycache__
